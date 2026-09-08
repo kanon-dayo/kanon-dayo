@@ -8,7 +8,7 @@
 - 💖 Passionate about FemTech, and Coffee!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,vercel,sklearn,tensorflow,fastapi,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,sklearn,tensorflow,fastapi,postgres,vercel&theme=light)](https://skillicons.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
