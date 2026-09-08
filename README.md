@@ -7,7 +7,7 @@
 - 👩‍🔧 4 years experience as a procurement buyer at Mitsubishi Electric.
 - 💖 Passionate about FemTech, and Coffee!
 
-## Tech Stack
+## 🛠️Tech Stack🛠️
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,sklearn,tensorflow,fastapi,postgres,vercel&theme=light)](https://skillicons.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
