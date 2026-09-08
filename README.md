@@ -14,6 +14,8 @@
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
+<!--
+
 **kanon-dayo/kanon-dayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
