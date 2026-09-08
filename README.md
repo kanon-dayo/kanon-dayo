@@ -4,7 +4,7 @@
 ## 🧑‍💻About Me🧑‍💻
 - 🗺️ I'm currently working at Nightley Inc. as a Data Scientist specializing in Spatial Data .
 - 🚌 I'm an alumna of AI & Data Science Bootcamp at Le Wagon Tokyo (Batch #2323).
-- 👩‍🔧 4 years experience as a procurement buyer at Mitsubishi Electric.
+- 👩‍🔧 4 years experience as a procurement buye.
 - 💖 Passionate about FemTech, and Coffee!
 
 ## 🛠️Tech Stack🛠️
