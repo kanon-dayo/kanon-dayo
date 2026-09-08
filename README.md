@@ -4,11 +4,11 @@
 ## 🧑‍💻About Me🧑‍💻
 - 🗺️ I'm currently working at Nightley Inc. as a Data Scientist specializing in Spatial Data .
 - 🚌 I'm an alumna of AI & Data Science Bootcamp at Le Wagon Tokyo (Batch #2323).
-- 👩‍🔧 4 years experience as a procurement buye.
+- 👩‍🔧 4 years experience as a procurement buyer.
 - 💖 Passionate about FemTech, and Coffee!
 
 ## 🛠️Tech Stack🛠️
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,fastapi,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,fastapi,postgres,github&theme=light)](https://skillicons.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
