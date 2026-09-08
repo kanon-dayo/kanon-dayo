@@ -1,7 +1,7 @@
 # Hi, I'm Kanon 👋
 ## I'm a Data Scientist based in Japan.
 
-![<kanon-dayo>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<kanon-dayo>'s Stats](https://github-readme-stats.vercel.app/api?username=<kanon-dayo>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🧑‍💻About Me🧑‍💻
 - 🗺️ I'm currently working at Nightley Inc. as a Data Scientist specializing in Spatial Data .
